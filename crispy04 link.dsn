@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=SQL Server
+UID=student
+DATABASE=crispy04
+WSID=SURFACE-JZ
+APP=Microsoft Office
+SERVER=obelix.mit.edu

@@ -1,0 +1,13 @@
+GICS Sectors,Maximum Weight,Minimum Weight
+NA,0.309859155,-0.222222222
+Energy,0.309859155,-0.23255814
+Materials,0.169014085,-0.126760563
+Industrials,0.162790698,-0.189873418
+Consumer Discretionary,0.194029851,-0.24
+Consumer Staples,0.092307692,-0.08
+Health Care,0.24137931,-0.222222222
+Financials,0.333333333,-0.487179487
+Information Technology,0.240963855,-0.235955056
+Telecommunication Services,0.042105263,-0.051282051
+Utilities,0.035294118,-0.047619048
+Grand Total,0.029850746,-0.054054054
